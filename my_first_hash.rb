@@ -1,7 +1,7 @@
 def my_hash
   first_hash = {
-    "school" => "Flatiron"
-    "language" => "Ruby"
+    "school" => "Flatiron",
+    "language" => "Ruby",
     "operating_system" => "Mac"
   }
 end
